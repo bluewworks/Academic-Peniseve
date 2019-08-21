@@ -5,3 +5,9 @@ table {
 th {
   height: 50px;
 }
+th {
+  text-align: left;
+}
+table, th, td {
+  border: 1px solid black;
+}
